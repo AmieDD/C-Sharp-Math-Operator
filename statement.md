@@ -14,7 +14,6 @@ class Hello
         a *= 6;
         Console.WriteLine(a);
     }
-Console.WriteLine("Hello World!");
 
 // { autofold
     }
