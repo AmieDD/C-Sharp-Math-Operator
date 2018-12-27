@@ -1,21 +1,23 @@
-# Welcome!
+# C# *= Math Operator
 
 This C# template lets you get started quickly with a simple one-page playground.
 
 ```C# runnable
 using System;
 
-class Hello 
+class MathClass 
 {
     static void Main()
     {
-        int a = 5;
+        int a = 10;
         a *= 6;
         Console.WriteLine(a);
     }
 }
 ```
 
-# Advanced usage
+# C# *= Math Operator
 
-If you want a more complex example (external libraries, viewers...), use the [Advanced C# template](https://tech.io/select-repo/386)
+The binary multiplication assignment operator.
+
+ *=
