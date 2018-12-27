@@ -8,10 +8,12 @@ using System;
 
 class Hello 
 {
-    static void Main() 
+    static void Main()
     {
-// }
-
+        int a = 5;
+        a *= 6;
+        Console.WriteLine(a);
+    }
 Console.WriteLine("Hello World!");
 
 // { autofold
