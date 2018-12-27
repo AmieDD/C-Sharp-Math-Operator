@@ -1,6 +1,3 @@
-# C-Sharp-Math-Operator-
-C# *= Math Operator  amiedd 0 views  GitHub
-
 # C# *= Math Operator
 
 The binary multiplication assignment operator.
