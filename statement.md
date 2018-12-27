@@ -1,7 +1,7 @@
 # C# *= Math Operator
 
-This C# template lets you get started quickly with a simple one-page playground.
-
+The binary multiplication assignment operator.
+Cospaly, Code and Games - www.amiedd.com
 ```C# runnable
 using System;
 
@@ -20,4 +20,6 @@ class MathClass
 
 The binary multiplication assignment operator.
 
- *=
+The * operator is predefined for numeric types to do mathmatical multiplication.
+The *= operator can't be overloaded directly, but user-defined types can overload the * operator 
+
