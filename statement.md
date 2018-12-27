@@ -3,7 +3,6 @@
 This C# template lets you get started quickly with a simple one-page playground.
 
 ```C# runnable
-// { autofold
 using System;
 
 class Hello 
@@ -15,7 +14,6 @@ class Hello
         Console.WriteLine(a);
     }
 }
-// }
 ```
 
 # Advanced usage
