@@ -14,9 +14,6 @@ class Hello
         a *= 6;
         Console.WriteLine(a);
     }
-
-// { autofold
-    }
 }
 // }
 ```
